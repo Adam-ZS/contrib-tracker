@@ -2,8 +2,8 @@
 // Last updated by updater.py (cron). Do not edit manually.
 
 var statsConfig = {
-  version: "2.12",
-  lastSync: "2026-07-26T19:51:24Z",
+  version: "2.11",
+  lastSync: "2026-07-26T20:30:02Z",
   syncCount: 185,
   totalContributions: 78,
   languages: {
