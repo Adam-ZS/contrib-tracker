@@ -3,7 +3,7 @@
 
 var stats = {
   total: 70,
-  thisMonth: 72,
+  thisMonth: 34,
   streak: 7,
   repos: 8,
   languages: {
