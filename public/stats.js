@@ -2,8 +2,8 @@
 // Updated by the updater cron script
 
 var stats = {
-  total: 55,
-  thisMonth: 22,
+  total: 51,
+  thisMonth: 71,
   streak: 7,
   repos: 8,
   languages: {
